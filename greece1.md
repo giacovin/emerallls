@@ -1,9 +1,9 @@
 ---
-layout:page
+layout: page
 title: Greece1
 ---
 
-> Who is the first greek partner?
+Who is the first greek partner?
 
 > a. china
 
