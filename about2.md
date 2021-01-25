@@ -7,7 +7,7 @@ title: About 2
 
 > For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-![Emerald](img/logo2.png "OMRs")
+![OMR Logo](img/logo2.png "OMRs")
 
 ### Setup
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
