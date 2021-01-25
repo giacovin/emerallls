@@ -1,11 +1,11 @@
 # Site settings
 title: OMRs | 2020
 description: "A minimal blog template, build with Jekyll."
-url: "http://giacovin.github.io"
+url: "http://giacovin.github.io/index"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
-  url: "http://giacovin.github.io/index"
+  url: "http://giacovin.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
