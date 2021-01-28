@@ -38,11 +38,11 @@ html, body {
 /* Original -14rem */
 
 #nav.menu-open {
-  @include open(-8rem);
+  @include open(-5rem);
 }
 
 #nav-left.menu-open-left {
-  @include open(8rem);
+  @include open(5rem);
 }
 
 /* Separator after menu */
