@@ -35,13 +35,14 @@ html, body {
 }
 
 /* Toggle class to open menu */
+/* Original -14rem */
 
 #nav.menu-open {
-  @include open(-10rem);
+  @include open(-8rem);
 }
 
 #nav-left.menu-open-left {
-  @include open(10rem);
+  @include open(8rem);
 }
 
 /* Separator after menu */
