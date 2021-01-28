@@ -42,7 +42,7 @@ html, body {
 }
 
 #nav-left.menu-open-left {
-  @include open(5rem);
+  @include open(1rem);
 }
 
 /* Separator after menu */
