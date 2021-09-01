@@ -1,7 +1,7 @@
 # Site settings
 title: OMRs | 2020
 description: "A minimal blog template, build with Jekyll."
-url: "http://giacovin.github.io/index"
+url: "http://giacovin.github.io"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
